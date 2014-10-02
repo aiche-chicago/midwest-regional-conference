@@ -1,0 +1,27 @@
+<h1 class="text-center">
+  Technical Program
+</h1>
+
+<div class="row">
+  <p class="lead">
+    The technical program is currently being developed. The call for contributions will
+    open shortly and will focus on the following Technical Program Areas:
+  </p>
+
+  <div class="col-xs-4">
+    <ul class="nav nav-pills nav-stacked">
+      <li ng-repeat="area in areas" ng-init="area.selected = false" ng-class="{'true':'active'}[area.selected]">
+        <a href="" ng-click="selectArea(area)">
+          {{area.title}}
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-xs-8">
+    <div class="tab-content">
+      {{selectedArea.topics}}
+    </div>
+  </div>
+
+</div>

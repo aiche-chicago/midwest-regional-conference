@@ -1,0 +1,87 @@
+//colors
+$black_20: rgba(0,0,0,.2);
+$default_color: #3d3d3d;
+
+$color_gossamer_approx: #14937a;
+$color_meteor_approx: #cd8109;
+$color_roof_terracotta_approx: #a12f23;
+$color_matisse_approx: #1d6391;
+
+$color_niagara_approx: #16a085;
+$color_tree_poppy_approx: #f39c12;
+$color_flush_mahogany_approx: #c0392b;
+$color_boston_blue_approx: #2980b9;
+$white: #fff;
+$color_alto_approx: #ddd;
+$color_suva_gray_approx: #888;
+
+.pricing-table {
+  padding: 0;
+//  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAIklEQVQIW2NkQAIfP378zwjjgzj8/PyMYAEYB8RmROaABAAVMg/XkcvroQAAAABJRU5ErkJggg== ) repeat;
+//  box-shadow: 0 2px 5px 0 $black_20;
+  border: 1px solid $default_color;
+  border-bottom: 10px solid $default_color;
+  strong {
+    font-weight: 700;
+    color: $default_color;
+  }
+}
+
+.pricing-table-header {
+  background: lighten($default_color, 10);
+  border-bottom: 10px solid $default_color;
+  padding: 2rem 1rem 1rem;
+  text-align: center;
+  h2 {
+    margin-top: 0;
+    font-weight: 500;
+    color: #FFF;
+  }
+  h3 {
+    margin-top: 1rem;
+    font-weight: 400;
+    color: #FFF;
+  }
+}
+
+.pricing-table-text {
+  margin: 15px 30px 0 30px;
+  border-bottom: 1px solid $color_alto_approx;
+  text-align: left;
+  font-size: 1.5rem;
+  color: $color_suva_gray_approx;
+  min-height: 7.5rem;
+}
+
+.pricing-table-features {
+  margin: 15px 10px 0 10px;
+  padding: 0 10px 15px;
+  border-bottom: 1px dashed $color_suva_gray_approx;
+  line-height: 20px;
+  font-size: 14px;
+  min-height: 20rem;
+}
+
+.pricing-table-signup {
+  margin-top: 25px;
+  padding-bottom: 10px;
+  a {
+    display: inline-block;
+    width: 50%;
+    height: 50px;
+    background: lighten($default_color, 10);
+    line-height: 50px;
+    color: $white;
+    text-decoration: none;
+    text-transform: uppercase;
+    &:hover {
+      text-decoration: none;
+      background: $default_color;
+      color: $white;
+    }
+    &:active {
+      background: $default_color;
+      color: $white;
+    }
+  }
+}

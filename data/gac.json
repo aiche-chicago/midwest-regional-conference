@@ -1,0 +1,244 @@
+{
+  "title": "General Arrangements Committee (GAC)",
+  "committees": [
+    {
+      "title": "GAC",
+      "posts": [
+        {
+          "title": "GAC Chair",
+          "members": [
+            {
+              "name": "Jerry Wilks",
+              "company": "Citgo"
+            }
+          ]
+        },
+        {
+          "title": "GAC Co-Chair",
+          "members": [
+            {
+              "name": "Julie Gruhn",
+              "company": "UOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finance Committee",
+      "posts": [
+        {
+          "title": "FC Chair",
+          "members": [
+            {
+              "name": "Pat Shannon",
+              "company": "Middough"
+            }
+          ]
+        },
+        {
+          "title": "Budget sub-committee",
+          "members": [
+            {
+              "name": "Pat Shannon",
+              "company": "Middough"
+            }
+          ]
+        },
+        {
+          "title": "Fundraising sub-committee",
+          "members": [
+            {
+              "name": "Janet Werner",
+              "company": "Sensient"
+            },
+            {
+              "name": "Jennifer Bauer",
+              "company": "UOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Advertising and Registration Committee",
+      "posts": [
+        {
+          "title": "ARC Chair",
+          "members" : [
+            {
+              "name": "Reza Mostofi",
+              "company": "UOP"
+            }
+          ]
+        },
+        {
+          "title": "Online registration sub-committee",
+          "members": [
+            {
+              "name": "Steve Wozniak",
+              "company": "UOP"
+            }
+          ]
+        },
+        {
+          "title": "Onsite Registration sub-committee",
+          "members": [
+            {
+              "name": "TDB",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Advertising sub-committee",
+          "members": [
+            {
+              "name": "Reza Mostofi",
+              "company": "UOP"
+            },
+            {
+              "name": "Jerry Wilks",
+              "company": "Citgo"
+            },
+            {
+              "name": "Janet Werner",
+              "company": "Sensient"
+            }
+          ]
+        },
+        {
+          "title": "Website sub-committee",
+          "members": [
+            {
+              "name": "Emmanuel Marcha",
+              "company": "MonkeyBars"
+            },
+            {
+              "name": "Don Chmielewski",
+              "company": "IIT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "HS Outreach Committe",
+      "posts": [
+        {
+          "title": "HSO Chair",
+          "members": [
+            {
+              "name": "TDB",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "HSO Advertising and Registration sub-committee",
+          "members": [
+            {
+              "name": "TDB",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "HSO Programming sub-commmittee",
+          "members": [
+            {
+              "name": "TDB",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "HSO Volunteer sub-committe",
+          "members": [
+            {
+              "name": "TDB",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hospitality Committee",
+      "posts": [
+        {
+          "title": "Hospitality committee chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Speakers' dinner sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "YP social sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Lodging and travel sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Program book printing sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Speaker and HSO gift sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Student aid coordination sub-commitee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Signage sub-committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

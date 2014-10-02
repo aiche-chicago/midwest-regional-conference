@@ -1,0 +1,293 @@
+{
+  "title": "Technical Programming Area Committees",
+  "committees": [
+    {
+      "title": "Energy and Sustainability",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Jordan Ciezobka",
+              "company": "GTI"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Process Safety and Occupational Health",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Peter G. Herena",
+              "company": "BakerRisk"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "Katie Kollhoff",
+              "company": "Northwestern"
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Janet Grezlik",
+              "company": "PSGR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Environmental Engineering",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Urmilia Diwekar",
+              "company": "VRI"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Michael Walker",
+              "company": "CU-Boulder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Biochemical and Pharmaceutical Engineering",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Georgia Papavasiliou",
+              "company": "IIT"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "Shyam Vaidya",
+              "company": "Abbott Laboratories"
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Zoltan Nagy",
+              "company": "Purdue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Process Engineering and Optimization",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Rajeswar Gattupalli",
+              "company": "UOP"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Adam Kanyuh",
+              "company": "UOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Refining and Petrochemical Processing",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Martin Gonzalez",
+              "company": "BP"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "Paolo Palmas",
+              "company": "UOP"
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Jerry Wilks",
+              "company": "Citgo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Catalysis and Reaction Engineering",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Justin Notestein",
+              "company": "Northwestern"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Jason C. Hicks",
+              "company": "Notre Dame"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fluid Properties, Fluid Dynamics and Transport Phenomena",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "Lewis Wedgewood",
+              "company": "UIC"
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ChE Education and Professional Development",
+      "posts": [
+        {
+          "title": "Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Vice-Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "2nd Vice-Chair",
+          "members": [
+            {
+              "name": "Nik Rokop",
+              "company": "IIT"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "title": "Conference Organizers",
+  "committees": [
+    {
+      "title": "Conference Planning Chair",
+      "posts": [
+        {
+          "title": "",
+          "members": [
+            {
+              "name": "Azita Ahmadzadeh",
+              "company": "UOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AIChE National Liaison",
+      "posts": [
+        {
+          "title": "",
+          "members": [
+            {
+              "name": "Stéphanie Orvoine-Couvrette",
+              "company": "AIChE Headquarters"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
