@@ -1,0 +1,79 @@
+{
+  "title": "Meeting Program Committee (MPC)",
+  "committees": [
+    {
+      "title": "MPC",
+      "posts": [
+        {
+          "title": "MPC Chair",
+          "members": [
+            {
+              "name": "Donald J. Chmiewlewski",
+              "company": "IIT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Program Steering Committee",
+      "posts": [
+        {
+          "title": "PSC Members",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Programming Logistsics Committee",
+      "posts": [
+        {
+          "title": "PLC Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "PLC Committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poster Committee",
+      "posts": [
+        {
+          "title": "Poster Chair",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        },
+        {
+          "title": "Poster Committee",
+          "members": [
+            {
+              "name": "TBD",
+              "company": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
