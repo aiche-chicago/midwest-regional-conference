@@ -1,0 +1,1 @@
+<h1 class="text-center"> {{info.title}} </h1> <div ng-repeat="committee in info.committees"> <h3>{{committee.title}}</h3> <p ng-repeat="post in committee.posts"> <em ng-show="post.title">{{post.title + ":"}}</em> <span ng-repeat="member in post.members"> {{member.name}} <span ng-show="member.company"> {{"(" + member.company + ")"}} </span> </span> </p> </div>
